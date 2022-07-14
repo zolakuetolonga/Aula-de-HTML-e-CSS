@@ -1,0 +1,25 @@
+body{
+            
+    padding: 2px;
+    background-color: rgba(58,56,56);
+    color: #ccc;
+}
+.titulo{
+    color: rgb(196, 247, 58);
+    padding: 10px;
+}
+#imagem{
+    border-radius: 50px;
+}
+.paragrafo{
+    background-color: #fff;
+    color: black;
+    padding: 10px;
+    width: 700px;
+}
+.curso{
+    color: #fff;
+}
+h2{
+    color: rgb(196, 247, 58);
+}
